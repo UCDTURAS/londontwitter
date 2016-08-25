@@ -1,0 +1,4 @@
+"text","favorited","favoriteCount","replyToSN","created","truncated","replyToSID","id","replyToUID","statusSource","screenName","retweetCount","isRetweet","retweeted","longitude","latitude"
+"Test. Parameter geo 2 #factest",FALSE,0,NA,2014-06-19 10:27:04,FALSE,NA,"479571057209524224",NA,"<a href=""http://twitter.com"" rel=""nofollow"">Twitter Web Client</a>","jmc6609835",0,FALSE,FALSE,NA,NA
+"Test parameter geo #factest",FALSE,0,NA,2014-06-18 17:01:09,FALSE,NA,"479307843620044800",NA,"<a href=""http://twitter.com"" rel=""nofollow"">Twitter Web Client</a>","jmc6609835",0,FALSE,FALSE,NA,NA
+"Tweet parameter 13 #factest",FALSE,1,NA,2014-06-18 16:32:06,FALSE,NA,"479300530469371904",NA,"<a href=""http://twitter.com"" rel=""nofollow"">Twitter Web Client</a>","jmc6609835",0,FALSE,FALSE,NA,NA
